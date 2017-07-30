@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Test-Images/AppDelegate.swift"
+            timestampString = "523047330.666683"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Images.AppDelegate.__deallocating_deinit"
+                  moduleName = "Test-Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrosanchez/Documents/PERSONAL/Swift/Test-Images/Test-Images/AppDelegate.swift"
+                  timestampString = "523047453.118141"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Images.AppDelegate.init () -&gt; Test_Images.AppDelegate"
+                  moduleName = "Test-Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrosanchez/Documents/PERSONAL/Swift/Test-Images/Test-Images/AppDelegate.swift"
+                  timestampString = "523047453.121986"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Test_Images.AppDelegate.__allocating_init () -&gt; Test_Images.AppDelegate"
+                  moduleName = "Test-Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrosanchez/Documents/PERSONAL/Swift/Test-Images/Test-Images/AppDelegate.swift"
+                  timestampString = "523047453.124607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Test-Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alejandrosanchez/Documents/PERSONAL/Swift/Test-Images/Test-Images/AppDelegate.swift"
+                  timestampString = "523047453.126052"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
